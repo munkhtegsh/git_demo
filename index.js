@@ -9,3 +9,5 @@ class MyComponent extends Component {
 	  }	
 	}
 }
+
+export default MyComponetn;
