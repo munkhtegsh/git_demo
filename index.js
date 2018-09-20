@@ -5,6 +5,7 @@ class MyComponent extends Component {
 	  return {
 	   <div>
 	     Hello World!		
+	     Here is some conflicts happen!!!
 	   </div>
 	  }	
 	}
