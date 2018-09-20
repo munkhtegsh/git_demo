@@ -5,6 +5,7 @@ class MyComponent extends Component {
 	  return {
 	   <div>
 	     Hello World!		
+	     <p> I'm going to learn VIM </p>
 	   </div>
 	  }	
 	}
