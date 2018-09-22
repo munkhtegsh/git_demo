@@ -7,7 +7,6 @@ class MyComponent extends Component {
 	     Hello World!		
 	     <p> I'm going to learn VIM </p>
 		  
-	     Changes from remote repo!
 	   </div>
 	  }	
 	}
